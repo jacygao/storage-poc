@@ -1,0 +1,1 @@
+This repo stores prototyping code for comparing performance between Azure CosmosDB and Azure Blob Storge
